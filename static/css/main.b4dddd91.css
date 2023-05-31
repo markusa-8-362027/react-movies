@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap);.content{min-height:calc(100vh - 134px)}.movies{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}.btn-search{position:absolute;right:.5rem;top:0}label:not(:last-child){margin-right:1rem}h4{font:100px Noto Color Emoji,sans-serif;width:100%}
+/*# sourceMappingURL=main.b4dddd91.css.map*/
